@@ -1,2 +1,3 @@
 # BHS-coursework
-HSE BHS incident detection project.
+
+In this project YOLOv5 and SORT algorithm are used to detect incidents in BHS of SVO airport.
